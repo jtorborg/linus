@@ -12,3 +12,5 @@ for i, name in enumerate(friends):
 
 
 Remember that ## is a comment line
+
+delineated by white space, no semi-colons
